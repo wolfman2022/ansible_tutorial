@@ -1,6 +1,9 @@
-[servers]
+[web_servers]
 10.0.2.15
-10.0.2.8
-10.0.2.9
 10.0.2.13
 
+[db_servers]
+10.0.2.9
+
+[file_servers]
+10.0.2.8
