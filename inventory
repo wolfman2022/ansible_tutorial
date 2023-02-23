@@ -7,3 +7,6 @@
 
 [file_servers]
 10.0.2.8
+
+[workstation]
+10.0.2.7
